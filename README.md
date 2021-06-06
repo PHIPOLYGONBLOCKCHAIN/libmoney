@@ -1,7 +1,7 @@
 # libmoney
-All-in-one library for fiat, cryptocurrencies, and other types of money, et cetera, et al
+All-in-one library (a layerlet) for fiat, cryptocurrencies, and other types of money, et cetera, et al
 
-Web site: [Money Layer Antarctica Glacier GPLv3 Open-Source Innovative PAAS](https://MoneyAntarcticaGlacier.Now.Sh/).
+Web site: [Money Layerlet Antarctica Glacier GPLv3 Open-Source Innovative PAAS](https://MoneyAntarcticaGlacier.Now.Sh/).
 
 ## LICENSE
 
